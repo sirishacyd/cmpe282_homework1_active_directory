@@ -33,4 +33,6 @@
 
 ### Step 4: Checking Number of User in the Active Directory
 
+![users](screenshots/count.png)
+
  
